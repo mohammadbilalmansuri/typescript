@@ -1,1 +1,1 @@
-console.log("The JS file of this TS file linked with the html file.");
+console.log("The JS file of this TS file is linked with the HTML file.");
